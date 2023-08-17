@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gif
+<img src="http://g.recordit.co/IabiXpDOsn.gif"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
