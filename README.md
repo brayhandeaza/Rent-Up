@@ -1,6 +1,6 @@
-# Gif
-<img src="http://g.recordit.co/IabiXpDOsn.gif"/>
+# Screenshot
 
+![http://g.recordit.co/IabiXpDOsn.gif](https://github.com/brayhandeaza/Rent-Up/blob/main/screeshot.png?raw=true)
 
 ## Available Scripts
 
